@@ -177,16 +177,6 @@ This Application has been developed to help the customer in processing their com
 - [x] SPRINT 03
 - [x] SPRINT 04
 
-<hr>
-
-## GITHUB LINKS FOR PROJECT TEAMS
-
-[RAJKIRAN S S](https://github.com/ssrajkiran) <br>
-[GURURAJAN](https://github.com/gururajan321)  <br>
-[KAMALESUWARAN D](https://github.com/KAMALESUWARAN-D) <br>
-[SRIGOVINDH S](https://github.com/srigovindh)<br>
-
-<hr>
 📫 How to reach Us <a href = "mailto:ibmdemo6@yahoo.com">Connect with Email</a>
 
 <hr>
