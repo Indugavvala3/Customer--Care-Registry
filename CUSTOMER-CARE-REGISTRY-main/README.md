@@ -143,19 +143,6 @@ This Application has been developed to help the customer in processing their com
 - [x] ASSIGNMENT 2
 - [x] ASSIGNMENT 3 
 - [x] ASSIGNMENT 4
-<hr>
-
-## 🔗 LINKS
-
-| TEAM MEMBERS | FOLDER LINK    |
-| ------------- | ------------- |
-| RAJKIRAN S S  | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/Team_Lead">CLICK HERE!  </a></button>                 
-| KAMALESUWARAN D | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/M1_Lead">CLICK HERE!  </a> </button> |
-| SRIGOVINDH S     | <button><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/M2_Lead">CLICK HERE!  </a> </button> |
-| GURURAJAN M     | <button><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Assignment/M3_Lead">CLICK HERE!  </a> </button> |
-
-<hr>
-
 ## PROJECT DESIGN & PLANNING
 # 🧩 IDEATION PHASE
 
