@@ -21,9 +21,6 @@
   <h3 align="center" size=20px>CUSTOMER CARE REGISTRY</h3>
 
   <p align="center">
-    TECHNOLOGY : CLOUD APP DEVELOPMENT <br />
-    TEAM ID    : PNT2022TMID37544 <br />
-    BATCH NO   : B1-1M3E <br />  
   </p>
 </p>
 <hr>
@@ -134,11 +131,11 @@ This Application has been developed to help the customer in processing their com
 <hr>
 
 ## 🧑🏻‍🦰 TEAM MEMBERS
-- RAJKIRAN S S
-- KAMALESUWARAN D   
-- SRIGOVINDH S
-- GURURAJAN M
-
+- AVAINASH GUNIMEDA<br>
+- RAJA VARDHAN<br>
+- DOGURU GNANESWARI<br>
+- GAVVALA INDU<br>
+- MOHAN BHAVANI KUMAR KAMIREDDY<br>
 <hr>
 
 ## 📒 ASSIGNMENT FINISHED
